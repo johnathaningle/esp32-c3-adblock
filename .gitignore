@@ -17,3 +17,9 @@ src/secrets.h
 
 # Backups / scratch
 *.bak
+
+# Python related
+__pycache__
+
+# Build output
+*.bin
